@@ -1,6 +1,6 @@
 # Neovim Init File
 
-The purpose of this repo is that you can use the nit file. You can clone or 
+The purpose of this repo is that you can use the init file. You can clone or 
 copy/paste the init file.
 
 ## How to use the init file:
